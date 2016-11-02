@@ -6,3 +6,9 @@
 
 - [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
 - [Markdown简明语法教程](https://github.com/Melo618/Simple-Markdown-Guide)
+
+##用GitHub Pages创建你的个人网站
+> GitHub Pages是一个静态站点托管服务。GitHub Pages旨在直接从GitHub存储库托管您的个人，组织或项目页面。
+
+- [通过官方网站的指导快速创建你的主页](pages.github.com)
+- [本项目的主页](auroraflash.github.io/Practice-and-Guide)
