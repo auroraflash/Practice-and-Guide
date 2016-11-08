@@ -21,11 +21,11 @@
 .at-mania.com
 .doublepimp.com
 .fc2blog.us
-jtvnw.net
+.jtvnw.net
 .javjunkie.com
 .rncdn3.com
-twitch.tv
-ttvnw.net
+.twitch.tv
+.ttvnw.net
 xonline.vip
 
 !---------403/451/520 & URL Redirects---------
