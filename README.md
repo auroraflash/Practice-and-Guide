@@ -12,3 +12,5 @@
 
 - [通过官方网站的指导快速创建你的主页](https://pages.github.com)
 - [本项目的主页](http://auroraflash.github.io/Practice-and-Guide/)
+
+its master
