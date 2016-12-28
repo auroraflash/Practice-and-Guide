@@ -29,7 +29,7 @@
 .rncdn3.com
 ||twitch.tv
 ||ttvnw.net
-.xonline.vip
+|xonline.vip
 
 !---------403/451/520 & URL Redirects---------
 ||4tern.com
